@@ -7,3 +7,5 @@ Auch noch eine nicht bestückte Platine habe ich, wenn jemand braucht.
 ![SCH.png](sch.PNG)
 ![PCB.png](pcb.PNG)
 ![01.png](01.png)
+![example1.jpg](example1.jpg)
+![example2.jpg](example2.jpg)
