@@ -6,7 +6,7 @@ Einfaches WLED Board
  - Tauschbare Komponenten
  - SW: https://github.com/Aircoookie/WLED
 
-Aktuell verkaufe ich 
+Aktuell verkaufe ich 2 Platinen, die ich übrig habe,   [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/wled-steuerung-rgb-led-strip-tv-ambilight-hyperion-aircookie-/1638914405-168-16390) (die 5V Version).
 
 ## Board itself
 <img src="V2/WLED_V2_TOP.jpg" width="600" />
