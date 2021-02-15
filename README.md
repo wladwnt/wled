@@ -5,4 +5,4 @@ Simple WLED Board
  - (SW: https://github.com/Aircoookie/WLED)
 
 ## Examples for connection
-[Fuer 150 LEDs](V2/WLED_V2_150.jpg/)
+[Fuer 150 LEDs](V2/WLED_V2_150.JPG)
