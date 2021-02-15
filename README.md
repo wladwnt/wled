@@ -1,8 +1,12 @@
 # WLED
-Simple WLED Board
- - For 5V and 12V LED Strips
- - Connection examples
+Einfaches WLED Board
+ - Für 5V and 12V LED Streifen
+ - Beispiele für die Verbindung mit dem Netzteil/LED
+ - Einfache Montage
+ - Tauschbare Komponenten
  - SW: https://github.com/Aircoookie/WLED
+
+Aktuell verkaufe ich 
 
 ## Board itself
 <img src="V2/WLED_V2_TOP.jpg" width="600" />
