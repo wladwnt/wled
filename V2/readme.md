@@ -1,3 +1,3 @@
 V2
-[schematic.jpg]!(schematic.jpg)
-[layout.jpg]!(layout.jpg)
+<img src="shematic.jpg" width="400" />
+<img src="layout.jpg" width="400" />
