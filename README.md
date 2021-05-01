@@ -14,7 +14,7 @@ Habe gerade auch noch ein WS2812B LED Streifen übrig (5m, 30 LED/m, IP30) [auf 
 <img src="V2/WLED_V2_TOP.jpg" width="400" />
 <img src="V2/WLED_V2_SIDE.JPG" width="400" />
 
-## Die Platine (hier bestückt als Version für 12V LED)
+## Bestückt als Version für 12V LED mit WS2815 LED Streifen:
 <img src="V1/12V.jpg" width="400" />
 
 ## Examples for connection
