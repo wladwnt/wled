@@ -24,6 +24,8 @@ Habe gerade auch noch ein WS2812B LED Streifen übrig (5m, 30 LED/m, IP30) [auf 
 <img src="V2/WLED_V2_12V_300.JPG" width="600" />
 
 ## How it works
+<img src="V4/STF_1.jpg" width="600" />
+<img src="V4/STF_2.jpg" width="600" />
 <img src="V2/WLED_V2_RED.jpg" width="600" />
 <img src="V2/WLED_V2_GREEN.jpg" width="600" />
 <img src="V2/WLED_V2_BLUE.jpg" width="600" />
