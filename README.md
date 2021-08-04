@@ -5,6 +5,7 @@ Einfaches WLED Board
  - Einfache Montage, Kein Kabelsalat, technisch saubere und sichere Ausführung
  - Tauschbare Komponenten
  - SW: https://github.com/Aircoookie/WLED
+ - ESP32 in D1 mini Format kann anstatt ESP8266 verwendet werden, passt auch drauf (in WLED Konfiguration muss man dann GPIO 16 für Data und ggf. GPIO 17 für Clock einstellen).
 
 Aktuell verkaufe ich 2 Platinen, die ich übrig habe,   [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/led-steuerung-mit-wled-sw-u-a-fuer-tv-ambilight-hyperion/1799125508-168-16390) (die 5V Version). Oder auch als ein Bausatz zum Selberlöten: [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/wled-steuerung-fuer-rgb-led-fuer-tv-ambilight-hyperion-bausatz/1799121068-168-16390)
 
