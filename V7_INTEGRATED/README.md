@@ -3,3 +3,4 @@ Aktuell verkaufe ich 3 Platinen, die ich übrig habe,   [auf ebay Kleinanzeigen]
 
 <img src="schnittstellen.jpg" width="600" />
 <img src="ansichten.jpg" width="600" />
+<img src="sch.jpg" width="600" />
