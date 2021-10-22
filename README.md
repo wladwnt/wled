@@ -1,6 +1,6 @@
 # WLED
 
-_Aktuell verkaufe ich 2 Platinen, die ich übrig habe,   [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/led-steuerung-mit-wled-sw-u-a-fuer-tv-ambilight-hyperion/1892503472-168-16390) (die 5V Version, industriell gefertigte Version). Sowie eine Mini Version im Gehäuse: [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/mini-led-controller-mit-wled-sw-u-a-fuer-tv-ambilight-hyperion/1901691454-168-16390)_
+_Aktuell verkaufe ich eine Mini Version im Gehäuse: [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/mini-led-controller-mit-wled-sw-u-a-fuer-tv-ambilight-hyperion/1901691454-168-16390) sowie eine **neue ESP32** basierte Version mit einer Schnittstelle für digitales Mikrophone für **Sound Reactive** WLED auch [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/esp32-wlan-led-pixel-controller-mit-wled-sw-sound-reactive-opt-/1909411870-168-16390)_
 
 Einfaches WLED Board
  - Für 5V and 12V LED Streifen (unterschiedliche Bestückung möglich)
