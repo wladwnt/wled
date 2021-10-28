@@ -1,6 +1,6 @@
 # WLED
 
-**Mittlerweile bin ich dazu übergegangen die Boards komplett zu entwickeln und in China SMD bestückt zu bestellen. Wenn 2-3 Leute sich zusammen tun und eine Sammelbestellung machen, ist das auch nicht teuer. Und wenn ein paar Controller dann noch beliben, kann man versuchen bei Ebay zu verkaufen :) Die verschiedenen Versionen findet man in Unterverzeichnissen. Was hier unten beschrieben ist, ist die allererste Version gewesen:**
+**Mittlerweile bin ich dazu übergegangen die Boards komplett zu entwickeln und in China SMD bestückt zu bestellen. Wenn 2-3 Leute sich zusammen tun und eine Sammelbestellung machen, ist das auch nicht teuer. Die verschiedenen Versionen findet man in Unterverzeichnissen. Was hier unten beschrieben ist, ist die allererste Version gewesen:**
 
 Einfaches WLED Board
  - Für 5V and 12V LED Streifen (unterschiedliche Bestückung möglich)
