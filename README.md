@@ -1,7 +1,5 @@
 # WLED
 
-_Aktuell verkaufe ich eine Mini Version im Gehäuse: [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/mini-led-controller-mit-wled-sw-u-a-fuer-tv-ambilight-hyperion/1901691454-168-16390) sowie eine **neue ESP32** basierte Version mit einer Schnittstelle für digitales Mikrophone für **Sound Reactive** WLED auch [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/esp32-wlan-led-pixel-controller-mit-wled-sw-sound-reactive-opt-/1909411870-168-16390)_
-
 **Mittlerweile bin ich dazu übergegangen die Boards komplett zu entwickeln und in China SMD bestückt zu bestellen. Wenn 2-3 Leute sich zusammen tun und eine Sammelbestellung machen, ist das auch nicht teuer. Und wenn ein paar Controller dann noch beliben, kann man versuchen bei Ebay zu verkaufen :) Die verschiedenen Versionen findet man in Unterverzeichnissen. Was hier unten beschrieben ist, ist die allererste Version gewesen:**
 
 Einfaches WLED Board
