@@ -1,6 +1,8 @@
 # WLED
 
-**Mittlerweile bin ich dazu übergegangen die Boards komplett zu entwickeln und in China SMD bestückt zu bestellen. Wenn 2-3 Leute sich zusammen tun und eine Sammelbestellung machen, ist das auch nicht teuer. Die verschiedenen Versionen findet man in Unterverzeichnissen. Was hier unten beschrieben ist, ist die allererste Version gewesen:**
+**Mittlerweile bin ich dazu übergegangen die Boards komplett zu entwickeln und in China SMD bestückt zu bestellen (). Wenn 2-3 Leute sich zusammen tun und eine Sammelbestellung machen, ist das auch nicht teuer. Die verschiedenen Versionen findet man in Unterverzeichnissen. Was hier unten beschrieben ist, ist die allererste Version gewesen.**
+
+Fragen? Kontaktieren Sie mich via Email: wled.controller@gmx.de
 
 Einfaches WLED Board
  - Für 5V and 12V LED Streifen (unterschiedliche Bestückung möglich)
@@ -28,3 +30,5 @@ Einfaches WLED Board
 <img src="V2/WLED_V2_RED.jpg" width="600" />
 <img src="V2/WLED_V2_GREEN.jpg" width="600" />
 <img src="V2/WLED_V2_BLUE.jpg" width="600" />
+
+Alle Rechte sind vorbehalten. Jegliche kommerzielle Nutzung der Inhalte ohne Zustimmung des Autors ist nicht gestattet.
