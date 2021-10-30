@@ -1,6 +1,6 @@
 # WLED
 
-**Mittlerweile bin ich dazu übergegangen die Boards komplett zu entwickeln und in China SMD bestückt zu bestellen (). Wenn 2-3 Leute sich zusammen tun und eine Sammelbestellung machen, ist das auch nicht teuer. Die verschiedenen Versionen findet man in Unterverzeichnissen. Was hier unten beschrieben ist, ist die allererste Version gewesen.**
+**Mittlerweile bin ich dazu übergegangen die Boards komplett zu entwickeln und in China SMD bestückt zu bestellen ([ESP8266 Version](https://github.com/wladwnt/wled/tree/main/V7_INTEGRATED), [ESP32 Version ](https://github.com/wladwnt/wled/tree/main/V40_ESP32_SoundReactive)). Wenn 2-3 Leute sich zusammen tun und eine Sammelbestellung machen, ist das auch nicht teuer. Die verschiedenen Versionen findet man in Unterverzeichnissen. Was hier unten beschrieben ist, ist die allererste Version gewesen.**
 
 Fragen? Kontaktieren Sie mich via Email: wled.controller@gmx.de
 
