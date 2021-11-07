@@ -6,8 +6,6 @@ Einfaches WLED Board
  - Verbesserte LevelShifter Schaltung in SMD
  - SW: https://github.com/Aircoookie/WLED
 
-Aktuell verkaufe ich 2 Platinen, die ich übrig habe,   [auf ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/led-steuerung-mit-wled-sw-u-a-fuer-tv-ambilight-hyperion/1799125508-168-16390) (die 5V Version). 
-
 <img src="sch.jpg" width="500" />
 
 <img src="pcb.jpg" width="500" />
