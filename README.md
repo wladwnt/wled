@@ -2,7 +2,7 @@
 
 **Jetzt gibt es zwei kommerzielle professionelle Versionen dieses Boards:**
 * [ESP8266 basiert](https://wled.shop/produkt/wladis-wled-controller-v30/), zu kaufen bei [WLED SHOP](https://wled.shop/produkt/wladis-wled-controller-v30/), Datenblatt/Beschreibung [hier](http://wled.shop/wp-content/uploads/2021/11/WLED_V30_Controller_Nutzungsinformationen.pdf)
-* [ESP32 basiert](https://wled.shop/produkt/wladis-wled-controller-v40-esp32/), zu kaufen auch bei [WLED SHOP](https://wled.shop/produkt/wladis-wled-controller-v40-esp32/), Datenblatt/Beschreibung hier](http://wled.shop/wp-content/uploads/2021/11/WLED_V40_Controller_Nutzungsinformationen.pdf)
+* [ESP32 basiert](https://wled.shop/produkt/wladis-wled-controller-v40-esp32/), zu kaufen auch bei [WLED SHOP](https://wled.shop/produkt/wladis-wled-controller-v40-esp32/), Datenblatt/Beschreibung [hier](http://wled.shop/wp-content/uploads/2021/11/WLED_V40_Controller_Nutzungsinformationen.pdf)
 
 Fragen? Kontaktieren Sie mich via Email: wled.controller@gmx.de
 
