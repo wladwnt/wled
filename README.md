@@ -1,6 +1,8 @@
 # WLED
 
-**Mittlerweile bin ich dazu übergegangen die Boards komplett zu entwickeln und in China SMD bestückt zu bestellen ([ESP8266 Version](https://github.com/wladwnt/wled/tree/main/V7_INTEGRATED), [ESP32 Version ](https://github.com/wladwnt/wled/tree/main/V40_ESP32_SoundReactive)). Wenn 2-3 Leute sich zusammen tun und eine Sammelbestellung machen, ist das auch nicht teuer. Die verschiedenen Versionen findet man in Unterverzeichnissen. Was hier unten beschrieben ist, ist die allererste Version gewesen.**
+**Jetzt gibt es zwei kommerzielle professionelle Versionen dieses Boards:**
+* [ESP8266 basiert](https://wled.shop/produkt/wladis-wled-controller-v30/), zu kaufen bei [WLED SHOP](https://wled.shop/produkt/wladis-wled-controller-v30/), Datenblatt/Beschreibung [hier](http://wled.shop/wp-content/uploads/2021/11/WLED_V30_Controller_Nutzungsinformationen.pdf)
+* [ESP32 basiert](https://wled.shop/produkt/wladis-wled-controller-v40-esp32/), zu kaufen auch bei [WLED SHOP](https://wled.shop/produkt/wladis-wled-controller-v40-esp32/), Datenblatt/Beschreibung hier](http://wled.shop/wp-content/uploads/2021/11/WLED_V40_Controller_Nutzungsinformationen.pdf)
 
 Fragen? Kontaktieren Sie mich via Email: wled.controller@gmx.de
 
