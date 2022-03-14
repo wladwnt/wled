@@ -1,8 +1,8 @@
 # WLED
 
 **Jetzt gibt es zwei kommerzielle professionelle Versionen dieses Boards:**
-* [ESP8266 basiert](https://shop.myhome-control.de/WLED-Controller-V31-ESP8266/HW10002), zu kaufen [in meinem Shop](https://shop.myhome-control.de/WLED-Controller-V31-ESP8266/HW10002)
-* [ESP32 basiert](https://shop.myhome-control.de/WLED-Controller-V41-ESP32/HW10003.1), zu kaufen auch [in meinem Shop](https://shop.myhome-control.de/WLED-Controller-V41-ESP32/HW10003.1)
+* [ESP8266 basiert](https://shop.myhome-control.de/ABC-WLED-Controller-V31-ESP8266/HW10002), zu kaufen [in meinem Shop](https://shop.myhome-control.de/ABC-WLED-Controller-V31-ESP8266/HW10002)
+* [ESP32 basiert](https://shop.myhome-control.de/ABC-WLED-Controller-V41-ESP32/HW10003.1), zu kaufen auch [in meinem Shop](https://shop.myhome-control.de/ABC-WLED-Controller-V41-ESP32/HW10003.1)
 * Auch ein passendes Relais Board [in meinem Shop](https://shop.myhome-control.de/Relais-Board-fuer-WLED-Controller/HW10005)
 
 Fragen? Kontaktieren Sie mich via Email: wled.controller@gmx.de
