@@ -11,6 +11,8 @@
 
 Fragen? Kontaktieren Sie mich via Email: wled.controller@gmx.de
 
+<img src="V40_ESP32_SoundReactive/WLED_Board_Vergleich_Bild_EN.JPG" width="500" />
+
 Einfaches WLED Board
  - Für 5V and 12V LED Streifen (unterschiedliche Bestückung möglich)
  - Beispiele für die Verbindung mit dem Netzteil/LED
